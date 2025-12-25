@@ -1,1 +1,1 @@
-"# neural-encoding-model" 
+# Neural Encoding Model
